@@ -1,0 +1,1001 @@
+,aadt,access,curv_rad_binary,lanewid,med_type_binary,no_lanes,oneway,rodwycls,rururb,seg_lng,spd_limt,surf_cat,Accident
+0,1550,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+1,950,0,No Curve,11,No Median,2,2,8,1,0.44,55,Rigid,0.0
+2,1650,0,No Curve,12,No Median,2,2,3,2,0.02,55,Rigid,0.0
+3,4500,0,No Curve,11,No Median,2,2,8,1,0.01,55,Rigid,1.0
+4,22000,0,No Curve,12,Median,4,2,4,2,0.09,20,Rigid,1.0
+5,2450,0,No Curve,12,No Median,2,2,8,1,0.04,35,Rigid,0.0
+6,1750,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+7,1050,0,No Curve,13,No Median,2,2,8,1,0.15,55,Flexible,0.0
+8,15300,0,No Curve,12,No Median,4,2,5,2,0.01,55,Rigid,1.0
+9,12600,1,No Curve,12,Median,4,2,4,2,0.06,45,Rigid,1.0
+10,17250,0,No Curve,11,No Median,4,2,5,2,0.02,35,Rigid,1.0
+11,6600,1,No Curve,11,Median,4,2,4,2,0.02,55,Rigid,0.0
+12,1150,0,No Curve,11,No Median,2,2,8,1,0.18,45,Flexible,0.0
+13,1350,0,No Curve,11,No Median,2,2,8,1,0.3500000000000001,55,Rigid,0.0
+14,1350,0,No Curve,11,No Median,2,2,8,1,0.01,50,Rigid,0.0
+15,25700,2,No Curve,12,Median,4,2,6,1,0.9200000000000002,65,Rigid,1.0
+16,3100,0,No Curve,12,Median,2,2,8,1,0.04,55,Rigid,0.0
+17,12900,0,No Curve,12,No Median,2,2,3,2,0.02,35,Rigid,1.0
+18,14800,1,No Curve,12,Median,4,2,4,2,0.05,55,Rigid,0.0
+19,950,0,No Curve,12,No Median,2,2,8,1,0.1,55,Rigid,0.0
+20,8200,0,No Curve,12,Median,2,2,3,2,0.02,55,Rigid,0.0
+21,1200,0,No Curve,11,No Median,2,2,8,1,0.04,30,Rigid,0.0
+22,152800,2,No Curve,12,Median,6,2,1,2,0.48,55,Rigid,1.0
+23,4250,0,No Curve,12,No Median,2,2,8,1,0.15,55,Rigid,1.0
+24,1350,0,No Curve,12,No Median,2,2,8,1,0.05,55,Rigid,0.0
+25,6300,0,No Curve,13,Median,2,2,8,1,0.12,45,Rigid,0.0
+26,1100,0,No Curve,10,No Median,2,2,8,1,0.03,55,Rigid,0.0
+27,10100,1,No Curve,12,No Median,2,2,3,2,0.01,55,Rigid,0.0
+28,7700,0,No Curve,12,No Median,2,2,3,2,0.01,45,Rigid,0.0
+29,2250,0,No Curve,13,No Median,2,2,8,1,0.25,55,Rigid,0.0
+30,3900,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+31,3400,0,No Curve,12,No Median,2,2,8,1,0.32,55,Rigid,0.0
+32,2600,0,No Curve,11,No Median,2,2,8,1,0.14,55,Rigid,1.0
+33,1550,0,No Curve,13,No Median,2,2,8,1,0.02,55,Rigid,0.0
+34,9800,0,No Curve,12,Median,2,2,3,2,0.07000000000000002,55,Rigid,0.0
+35,14700,0,No Curve,12,Median,2,2,3,2,0.01,30,Rigid,0.0
+36,2500,0,No Curve,13,No Median,2,2,8,1,0.06,30,Rigid,0.0
+37,16300,0,No Curve,13,No Median,4,2,5,2,0.11,30,Rigid,1.0
+38,5200,0,No Curve,12,No Median,2,2,3,2,0.06,45,Rigid,0.0
+39,1450,0,No Curve,10,No Median,2,2,8,1,0.03,55,Rigid,0.0
+40,19400,2,No Curve,12,Median,4,2,1,2,0.05,65,Rigid,0.0
+41,29800,0,No Curve,12,Median,6,2,4,2,0.2,45,Other,1.0
+42,3700,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+43,16300,1,No Curve,12,Median,4,2,4,2,0.2,55,Flexible,1.0
+44,2250,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+45,16900,0,No Curve,12,Median,4,2,4,2,0.03,55,Flexible,0.0
+46,8200,0,No Curve,12,Median,4,2,4,2,0.04,25,Rigid,1.0
+47,3250,0,No Curve,11,No Median,2,2,8,1,0.06,55,Rigid,0.0
+48,14700,0,No Curve,12,Median,2,2,3,2,0.03,45,Rigid,1.0
+49,26700,0,No Curve,12,Median,4,2,4,2,0.08,30,Rigid,1.0
+50,21600,2,No Curve,12,Median,4,2,6,1,0.14,65,Rigid,0.0
+51,20600,0,No Curve,12,No Median,4,2,5,2,0.02,35,Rigid,0.0
+52,9500,1,No Curve,12,Median,4,2,4,2,0.03,55,Rigid,0.0
+53,6000,1,No Curve,12,No Median,2,2,3,2,0.12,55,Rigid,1.0
+54,5300,0,No Curve,12,No Median,2,2,8,1,0.21,55,Rigid,0.0
+55,3400,0,No Curve,12,No Median,2,2,3,2,0.09,45,Rigid,0.0
+56,6700,0,No Curve,11,Median,4,2,4,2,0.01,55,Rigid,1.0
+57,8100,1,No Curve,11,Median,4,2,4,2,0.04,30,Rigid,0.0
+58,2000,0,No Curve,12,No Median,2,2,8,1,0.5700000000000001,55,Rigid,1.0
+59,23900,0,No Curve,12,No Median,4,2,5,2,0.03,45,Rigid,0.0
+60,23700,0,No Curve,10,No Median,4,2,5,2,0.01,35,Rigid,0.0
+61,26300,2,No Curve,12,Median,6,2,1,2,0.01,65,Rigid,0.0
+62,550,0,No Curve,11,No Median,2,2,8,1,0.21,55,Rigid,0.0
+63,9600,0,No Curve,12,No Median,2,2,3,2,0.08,30,Rigid,0.0
+64,8800,0,No Curve,12,Median,4,2,4,2,0.04,55,Rigid,0.0
+65,13400,0,No Curve,11,Median,2,2,3,2,0.04,50,Rigid,0.0
+66,6800,0,No Curve,12,No Median,4,2,5,2,0.08,30,Rigid,1.0
+67,25100,0,No Curve,12,Median,2,2,3,2,0.27,25,Rigid,1.0
+68,18400,0,No Curve,12,No Median,2,2,3,2,0.02,45,Rigid,1.0
+69,2400,1,No Curve,12,No Median,2,2,8,1,0.1,55,Rigid,1.0
+70,1150,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+71,4450,1,No Curve,12,Median,4,2,4,2,0.02,45,Rigid,0.0
+72,26100,0,No Curve,12,Median,4,2,4,2,0.12,40,Rigid,1.0
+73,2350,0,No Curve,12,No Median,2,2,8,1,0.09,55,Rigid,0.0
+74,9800,0,No Curve,17,No Median,2,2,3,2,0.01,30,Rigid,0.0
+75,10200,1,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+76,56100,0,No Curve,12,Median,4,2,4,2,0.11,40,Rigid,1.0
+77,1750,0,No Curve,12,No Median,2,2,8,1,0.09,45,Rigid,0.0
+78,3500,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+79,21300,0,No Curve,10,Median,4,2,4,2,0.03,45,Rigid,1.0
+80,2300,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+81,4450,1,No Curve,12,No Median,2,2,8,1,0.34,55,Rigid,0.0
+82,5400,0,No Curve,16,No Median,2,2,8,1,0.12,30,Rigid,0.0
+83,750,0,No Curve,11,No Median,2,2,8,1,0.9200000000000002,55,Rigid,0.0
+84,6100,0,No Curve,12,No Median,2,2,8,1,0.02,35,Rigid,0.0
+85,700,0,No Curve,10,No Median,2,2,8,1,0.01,30,Rigid,0.0
+86,2150,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+87,4100,0,No Curve,12,Median,2,2,3,2,0.01,40,Rigid,0.0
+88,11400,2,No Curve,12,Median,4,2,6,1,0.75,65,Rigid,1.0
+89,12500,1,No Curve,12,Median,4,2,9,1,0.44,65,Rigid,0.0
+90,2250,0,Curve,12,No Median,2,2,8,1,0.1,55,Rigid,0.0
+91,2600,0,No Curve,13,No Median,2,2,8,1,0.04,55,Rigid,0.0
+92,31100,0,No Curve,11,No Median,4,2,5,2,0.02,30,Rigid,1.0
+93,650,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+94,16000,0,No Curve,12,No Median,2,2,3,2,0.05,50,Other,0.0
+95,4150,0,No Curve,11,No Median,2,2,8,1,0.04,55,Rigid,0.0
+96,11700,0,No Curve,13,No Median,4,2,5,2,0.02,40,Rigid,0.0
+97,139800,2,No Curve,12,Median,6,2,1,2,0.02,55,Rigid,1.0
+98,8200,1,No Curve,12,No Median,2,2,3,2,0.01,55,Rigid,0.0
+99,4550,0,No Curve,12,No Median,2,2,8,1,0.4,55,Flexible,0.0
+100,30300,1,No Curve,12,Median,6,2,4,2,0.01,40,Rigid,0.0
+101,9500,2,No Curve,12,Median,4,2,6,1,0.1,65,Rigid,1.0
+102,3700,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+103,7200,0,No Curve,12,Median,4,2,9,1,0.01,30,Rigid,0.0
+104,500,0,No Curve,10,No Median,2,2,3,2,0.01,30,Flexible,0.0
+105,4000,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+106,17900,2,No Curve,12,Median,4,2,6,1,0.62,65,Rigid,1.0
+107,2300,0,No Curve,16,Median,2,2,3,2,0.04,35,Rigid,0.0
+108,10600,0,Curve,12,Median,4,2,4,2,0.01,40,Rigid,0.0
+109,5900,0,No Curve,11,No Median,2,2,3,2,0.04,45,Rigid,0.0
+110,8600,1,Curve,12,Median,4,2,9,1,0.12,65,Rigid,1.0
+111,21900,0,No Curve,11,Median,4,2,4,2,0.11,40,Rigid,0.0
+112,1400,0,No Curve,14,Median,2,2,8,1,0.03,45,Rigid,0.0
+113,7000,1,No Curve,12,Median,6,2,4,2,0.07000000000000002,55,Other,0.0
+114,14400,1,No Curve,12,Median,4,2,4,2,0.04,50,Rigid,1.0
+115,2050,0,No Curve,11,No Median,2,2,3,2,0.08,55,Rigid,0.0
+116,2200,1,No Curve,11,No Median,2,2,8,1,0.25,55,Rigid,0.0
+117,3100,0,No Curve,12,Median,2,2,3,2,0.01,50,Other,0.0
+118,7700,0,No Curve,12,No Median,2,2,3,2,0.05,30,Rigid,1.0
+119,6500,0,Curve,12,No Median,2,2,3,2,0.08,50,Rigid,1.0
+120,14500,0,No Curve,12,Median,2,2,3,2,0.03,45,Rigid,1.0
+121,550,0,No Curve,11,No Median,2,2,8,1,0.11,55,Flexible,0.0
+122,9000,0,No Curve,10,Median,4,1,99,2,0.01,30,Rigid,0.0
+123,7500,0,No Curve,12,Median,4,2,4,2,0.02,40,Rigid,0.0
+124,4250,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+125,18200,0,No Curve,12,No Median,2,2,3,2,0.04,35,Rigid,0.0
+126,20700,1,No Curve,12,Median,4,2,9,1,0.02,55,Rigid,1.0
+127,7400,0,No Curve,12,No Median,2,2,3,2,0.19,35,Rigid,0.0
+128,5200,0,No Curve,13,No Median,2,2,8,1,0.04,55,Rigid,0.0
+129,27300,1,No Curve,12,Median,4,2,9,1,0.11,55,Other,1.0
+130,6800,0,No Curve,12,No Median,2,2,8,1,0.03,30,Rigid,0.0
+131,5800,0,No Curve,13,No Median,2,2,8,1,0.14,55,Rigid,1.0
+132,2050,0,No Curve,16,No Median,2,2,8,1,0.05,55,Rigid,0.0
+133,3300,0,No Curve,15,No Median,2,1,99,2,0.06,30,Rigid,0.0
+134,18400,2,No Curve,12,Median,4,2,6,1,0.03,65,Rigid,0.0
+135,13000,0,No Curve,12,Median,2,2,3,2,0.09,30,Rigid,1.0
+136,4400,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+137,3500,0,No Curve,13,No Median,2,2,8,1,0.01,55,Rigid,0.0
+138,2000,0,No Curve,12,No Median,2,2,8,1,0.09,55,Rigid,1.0
+139,12100,0,No Curve,12,No Median,4,2,5,2,0.04,25,Rigid,1.0
+140,7000,0,No Curve,13,No Median,2,2,8,1,0.02,35,Rigid,0.0
+141,1900,0,No Curve,12,No Median,2,2,8,1,0.53,55,Rigid,0.0
+142,4700,0,No Curve,16,No Median,2,1,99,2,0.01,35,Rigid,0.0
+143,25200,1,No Curve,12,Median,4,2,4,2,0.15,35,Rigid,0.0
+144,45500,0,No Curve,12,Median,4,2,4,2,0.02,50,Rigid,0.0
+145,2200,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+146,1100,0,No Curve,11,No Median,2,2,8,1,0.25,55,Flexible,1.0
+147,15200,0,No Curve,12,No Median,2,2,3,2,0.06,30,Rigid,1.0
+148,10300,0,No Curve,12,No Median,2,2,8,1,0.05,35,Rigid,1.0
+149,1000,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+150,17800,0,No Curve,12,Median,4,2,4,2,0.04,40,Rigid,1.0
+151,16900,0,No Curve,12,No Median,2,2,3,2,0.03,35,Rigid,1.0
+152,3050,0,No Curve,13,No Median,2,2,8,1,0.04,55,Rigid,0.0
+153,6000,0,No Curve,13,No Median,2,2,8,1,0.08,30,Rigid,0.0
+154,850,0,No Curve,12,No Median,2,2,8,1,0.73,55,Rigid,0.0
+155,25900,2,No Curve,12,Median,4,2,6,1,0.05,65,Rigid,0.0
+156,8500,0,No Curve,12,No Median,2,2,3,2,0.08,55,Rigid,0.0
+157,7100,0,No Curve,10,No Median,2,2,3,2,0.03,35,Rigid,1.0
+158,39700,0,No Curve,12,Median,6,2,4,2,0.02,40,Rigid,0.0
+159,7100,0,No Curve,13,No Median,2,2,8,1,0.08,55,Rigid,0.0
+160,1009,0,No Curve,17,Median,2,2,8,1,0.06,25,Flexible,0.0
+161,8500,0,No Curve,15,No Median,4,2,5,2,0.08,30,Rigid,0.0
+162,5700,0,No Curve,11,No Median,2,2,3,2,0.17,40,Rigid,0.0
+163,4800,1,No Curve,12,Median,2,2,3,2,0.04,55,Rigid,0.0
+164,22900,0,No Curve,12,No Median,4,2,5,2,0.12,40,Rigid,1.0
+165,5800,0,No Curve,11,No Median,2,2,8,1,0.37,55,Rigid,0.0
+166,14800,0,No Curve,12,No Median,2,2,3,2,0.07000000000000002,30,Rigid,1.0
+167,22000,0,No Curve,12,Median,4,2,4,2,0.02,45,Rigid,0.0
+168,2700,0,No Curve,12,No Median,2,2,8,1,0.05,55,Rigid,0.0
+169,14600,0,No Curve,12,No Median,2,2,3,2,0.07000000000000002,55,Rigid,0.0
+170,1350,0,No Curve,13,No Median,2,2,8,1,0.04,30,Rigid,0.0
+171,2100,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+172,8500,0,Curve,12,Median,4,2,9,1,0.01,55,Other,0.0
+173,2450,0,No Curve,18,No Median,2,2,8,1,0.06,30,Rigid,0.0
+174,30200,2,No Curve,12,Median,6,2,1,2,0.1,65,Rigid,1.0
+175,3900,0,No Curve,13,No Median,2,2,8,1,0.05,45,Rigid,0.0
+176,24100,1,No Curve,12,Median,4,2,4,2,0.17,55,Rigid,1.0
+177,22700,0,No Curve,12,No Median,4,2,5,2,0.05,40,Other,1.0
+178,2500,0,No Curve,11,No Median,2,2,8,1,0.27,55,Rigid,0.0
+179,16400,1,No Curve,12,Median,4,2,9,1,0.04,65,Rigid,0.0
+180,7900,0,No Curve,11,No Median,2,2,8,1,0.01,35,Rigid,0.0
+181,17700,2,No Curve,12,Median,4,2,6,1,0.68,65,Rigid,1.0
+182,9300,0,No Curve,12,No Median,2,2,8,1,0.19,55,Rigid,1.0
+183,3300,0,No Curve,11,No Median,2,2,8,1,0.4100000000000001,55,Rigid,0.0
+184,26800,1,No Curve,12,Median,4,2,4,2,0.07000000000000002,55,Rigid,0.0
+185,2050,0,No Curve,12,No Median,2,2,8,1,0.05,55,Flexible,0.0
+186,16000,0,No Curve,11,No Median,2,2,3,2,0.05,50,Rigid,0.0
+187,5100,1,No Curve,12,No Median,2,2,8,1,0.12,55,Rigid,1.0
+188,8400,0,No Curve,17,No Median,2,2,3,2,0.08,30,Rigid,1.0
+189,2050,0,No Curve,12,No Median,2,2,8,1,0.05,55,Rigid,0.0
+190,2050,0,No Curve,11,No Median,2,2,8,1,0.02,35,Rigid,0.0
+191,2450,0,No Curve,12,No Median,2,2,8,1,0.08,30,Rigid,0.0
+192,10700,0,No Curve,12,Median,4,2,4,2,0.03,35,Rigid,0.0
+193,4000,0,No Curve,12,No Median,2,2,8,1,0.19,55,Rigid,0.0
+194,10500,0,No Curve,10,No Median,2,2,3,2,0.07000000000000002,30,Rigid,1.0
+195,700,0,No Curve,10,No Median,2,2,8,1,0.01,55,Rigid,1.0
+196,1150,0,No Curve,11,No Median,2,2,8,1,0.29,55,Flexible,1.0
+197,4100,0,No Curve,12,No Median,2,2,3,2,0.07000000000000002,45,Rigid,0.0
+198,4600,0,No Curve,14,No Median,2,2,3,2,0.1,40,Rigid,0.0
+199,3000,0,No Curve,11,No Median,2,2,8,1,0.03,55,Rigid,0.0
+200,1000,0,No Curve,12,No Median,2,2,8,1,0.14,55,Rigid,0.0
+201,2850,0,No Curve,15,No Median,2,2,8,1,0.09,30,Rigid,0.0
+202,2750,0,No Curve,14,No Median,2,2,3,2,0.02,30,Rigid,0.0
+203,32300,0,No Curve,10,Median,4,2,4,2,0.03,35,Rigid,0.0
+204,1400,0,No Curve,12,Median,4,2,9,1,0.06,45,Rigid,0.0
+205,1400,0,No Curve,12,Median,2,2,8,1,0.01,55,Rigid,0.0
+206,3150,0,No Curve,12,No Median,2,2,8,1,0.09,55,Rigid,0.0
+207,950,0,No Curve,13,No Median,2,2,8,1,0.01,55,Rigid,0.0
+208,3100,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+209,2900,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+210,19400,2,No Curve,12,Median,4,2,6,1,0.01,65,Rigid,0.0
+211,700,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+212,2350,0,No Curve,12,No Median,2,2,8,1,0.25,50,Rigid,0.0
+213,17700,0,No Curve,10,No Median,4,2,5,2,0.02,30,Rigid,0.0
+214,34700,1,No Curve,12,Median,4,2,4,2,0.05,55,Rigid,0.0
+215,25700,0,No Curve,10,No Median,4,2,5,2,0.11,35,Rigid,1.0
+216,13300,0,No Curve,13,No Median,2,2,3,2,0.29,35,Rigid,1.0
+217,3150,0,No Curve,13,No Median,2,2,8,1,0.31,55,Rigid,0.0
+218,28000,0,No Curve,12,No Median,4,2,5,2,0.06,40,Other,1.0
+219,13600,0,No Curve,10,No Median,4,2,5,2,0.01,45,Rigid,0.0
+220,15700,0,No Curve,12,No Median,2,2,3,2,0.06,45,Rigid,0.0
+221,1750,0,No Curve,13,No Median,2,2,8,1,1.0,55,Flexible,0.0
+222,29400,0,No Curve,12,Median,4,2,4,2,0.12,50,Rigid,1.0
+223,1650,0,No Curve,12,No Median,2,2,8,1,0.16,55,Rigid,0.0
+224,7200,1,No Curve,12,Median,2,2,3,2,0.03,40,Rigid,0.0
+225,15300,0,No Curve,12,No Median,4,2,5,2,0.08,30,Rigid,1.0
+226,10600,0,No Curve,14,Median,2,2,3,2,0.01,35,Rigid,0.0
+227,28800,0,No Curve,12,Median,4,2,4,2,0.1,35,Rigid,1.0
+228,2500,0,No Curve,12,No Median,2,2,8,1,0.18,30,Rigid,0.0
+229,9900,0,No Curve,12,No Median,2,2,3,2,0.01,55,Rigid,1.0
+230,165600,2,No Curve,12,Median,7,2,1,2,0.03,55,Rigid,1.0
+231,2000,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+232,2450,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+233,7400,0,No Curve,12,No Median,4,2,5,2,0.03,25,Rigid,0.0
+234,31000,0,No Curve,10,No Median,4,2,5,2,0.06,30,Rigid,1.0
+235,23400,1,No Curve,12,Median,4,2,4,2,0.25,55,Rigid,0.0
+236,11100,0,No Curve,12,Median,4,2,4,2,0.02,40,Rigid,0.0
+237,5300,0,No Curve,12,No Median,2,2,3,2,0.03,35,Rigid,0.0
+238,10500,2,No Curve,12,Median,4,2,6,1,0.19,65,Rigid,0.0
+239,4100,0,No Curve,11,No Median,2,2,8,1,0.04,35,Rigid,0.0
+240,13200,0,No Curve,16,Median,2,2,3,2,0.01,35,Flexible,0.0
+241,16400,0,No Curve,12,Median,4,2,4,2,0.06,40,Rigid,0.0
+242,4300,0,No Curve,10,No Median,2,2,3,2,0.04,55,Rigid,0.0
+243,2950,1,Curve,12,Median,3,2,9,1,0.08,55,Rigid,0.0
+244,3850,0,No Curve,12,No Median,2,2,8,1,0.18,55,Rigid,0.0
+245,3100,0,No Curve,12,No Median,2,2,8,1,0.63,55,Rigid,0.0
+246,1250,0,No Curve,11,No Median,2,2,8,1,0.05,55,Rigid,0.0
+247,9200,0,No Curve,12,No Median,4,2,5,2,0.02,40,Rigid,0.0
+248,9200,0,No Curve,14,No Median,2,2,3,2,0.08,35,Rigid,0.0
+249,1950,0,No Curve,11,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+250,4000,0,No Curve,12,No Median,2,2,8,1,0.11,40,Rigid,0.0
+251,4800,1,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+252,700,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+253,11900,0,No Curve,13,No Median,2,1,99,2,0.01,30,Rigid,1.0
+254,20900,0,No Curve,12,Median,4,2,4,2,0.06,40,Rigid,0.0
+255,16800,0,No Curve,11,No Median,4,2,5,2,0.12,25,Rigid,1.0
+256,21500,0,No Curve,12,Median,4,2,4,2,0.06,40,Rigid,1.0
+257,22800,0,No Curve,12,Median,4,2,4,2,0.06,40,Other,0.0
+258,10300,0,No Curve,12,No Median,3,1,99,2,0.06,30,Rigid,0.0
+259,9400,0,No Curve,15,Median,4,2,4,2,0.05,45,Rigid,0.0
+260,46500,0,No Curve,11,Median,5,2,4,2,0.06,35,Rigid,1.0
+261,19400,1,No Curve,12,Median,4,2,4,2,0.22,45,Rigid,1.0
+262,6200,0,No Curve,12,No Median,4,2,10,1,0.02,55,Rigid,0.0
+263,2000,0,No Curve,11,No Median,2,2,8,1,0.09,55,Rigid,0.0
+264,100600,2,No Curve,11,Median,8,2,1,2,0.13,40,Rigid,1.0
+265,4350,0,No Curve,11,No Median,2,2,3,2,0.01,55,Rigid,0.0
+266,1450,0,No Curve,12,No Median,2,2,8,1,0.25,55,Rigid,0.0
+267,13700,0,No Curve,11,Median,4,2,4,2,0.13,35,Rigid,1.0
+268,1150,0,No Curve,11,No Median,2,2,8,1,0.02,55,Flexible,0.0
+269,2150,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+270,2000,0,No Curve,11,No Median,2,2,8,1,0.09,55,Rigid,1.0
+271,4300,1,No Curve,12,No Median,2,2,8,1,0.9,55,Other,1.0
+272,6900,0,No Curve,12,Median,4,2,9,1,0.04,30,Rigid,0.0
+273,2350,0,No Curve,12,No Median,2,2,8,1,0.65,55,Rigid,0.0
+274,16900,0,No Curve,12,Median,4,2,4,2,0.01,40,Rigid,1.0
+275,5400,0,No Curve,11,No Median,2,2,8,1,0.03,55,Rigid,0.0
+276,10800,0,No Curve,12,No Median,2,2,3,2,0.01,50,Rigid,1.0
+277,3100,0,No Curve,12,No Median,2,2,8,1,0.37,55,Rigid,1.0
+278,1000,0,No Curve,12,No Median,2,2,8,1,0.19,55,Rigid,0.0
+279,15200,1,No Curve,12,Median,4,2,4,2,0.02,55,Rigid,0.0
+280,1850,0,No Curve,13,No Median,2,2,8,1,0.02,45,Rigid,0.0
+281,5200,0,No Curve,11,No Median,2,2,3,2,0.01,35,Rigid,0.0
+282,28400,0,No Curve,11,No Median,4,2,5,2,0.12,30,Rigid,1.0
+283,44100,0,No Curve,12,Median,6,2,4,2,0.05,40,Rigid,0.0
+284,4700,0,No Curve,12,No Median,2,2,3,2,0.06,30,Rigid,0.0
+285,22500,0,No Curve,11,No Median,4,2,5,2,0.09,30,Rigid,1.0
+286,2100,0,No Curve,12,No Median,2,2,8,1,0.09,45,Rigid,0.0
+287,11100,0,No Curve,12,No Median,2,2,3,2,0.02,45,Rigid,1.0
+288,43500,2,No Curve,12,Median,6,2,1,2,0.03,65,Rigid,0.0
+289,71400,2,No Curve,12,Median,4,2,1,2,0.02,65,Rigid,0.0
+290,3850,0,No Curve,14,No Median,2,2,3,2,0.26,40,Rigid,1.0
+291,3200,0,No Curve,12,No Median,2,2,8,1,0.01,45,Rigid,0.0
+292,6400,0,No Curve,12,No Median,2,2,3,2,0.15,40,Rigid,0.0
+293,31700,0,No Curve,11,No Median,4,2,5,2,0.05,50,Rigid,0.0
+294,2500,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+295,27100,0,No Curve,11,Median,6,2,4,2,0.06,30,Rigid,1.0
+296,16400,0,No Curve,12,No Median,3,1,99,2,0.07000000000000002,30,Rigid,1.0
+297,10800,1,No Curve,12,No Median,2,2,3,2,0.01,45,Rigid,0.0
+298,23500,0,No Curve,12,Median,4,2,4,2,0.02,40,Rigid,1.0
+299,3700,1,No Curve,13,No Median,2,2,8,1,0.5,55,Rigid,0.0
+300,4200,0,No Curve,12,No Median,2,2,8,1,0.01,45,Rigid,0.0
+301,4800,0,No Curve,11,No Median,2,2,8,1,0.05,55,Rigid,0.0
+302,800,0,No Curve,11,No Median,2,2,8,1,0.31,55,Rigid,0.0
+303,10800,1,No Curve,12,Median,4,2,9,1,0.02,55,Rigid,1.0
+304,202200,2,No Curve,12,Median,8,2,1,2,0.01,55,Rigid,0.0
+305,7500,0,No Curve,10,No Median,4,2,5,2,0.01,30,Rigid,0.0
+306,3050,0,No Curve,12,No Median,2,2,8,1,0.19,55,Rigid,0.0
+307,1950,0,No Curve,13,No Median,2,2,8,1,0.05,55,Rigid,0.0
+308,900,0,No Curve,12,No Median,2,2,8,1,0.28,55,Rigid,0.0
+309,4800,1,No Curve,12,No Median,2,2,8,1,0.02,45,Rigid,1.0
+310,12900,0,No Curve,10,No Median,4,2,5,2,0.11,35,Rigid,0.0
+311,1400,0,No Curve,12,No Median,2,2,8,1,0.11,55,Rigid,0.0
+312,7100,0,No Curve,13,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+313,4750,0,No Curve,13,No Median,2,2,8,1,0.02,55,Rigid,0.0
+314,23900,2,No Curve,12,Median,4,2,1,2,0.02,65,Rigid,1.0
+315,9000,0,No Curve,11,No Median,4,2,5,2,0.03,30,Rigid,1.0
+316,14500,0,No Curve,10,No Median,4,2,5,2,0.06,30,Rigid,0.0
+317,12800,0,No Curve,10,No Median,4,2,5,2,0.04,35,Rigid,0.0
+318,2050,0,No Curve,11,No Median,2,2,8,1,0.02,55,Rigid,0.0
+319,10700,1,No Curve,12,No Median,2,2,3,2,0.02,45,Rigid,0.0
+320,22600,0,No Curve,11,No Median,4,2,5,2,0.03,45,Rigid,0.0
+321,13000,0,No Curve,11,No Median,4,2,5,2,0.05,35,Rigid,0.0
+322,27900,1,No Curve,12,Median,4,2,4,2,0.02,55,Rigid,0.0
+323,1700,0,No Curve,11,No Median,2,2,8,1,0.11,55,Rigid,0.0
+324,10900,0,No Curve,10,No Median,3,2,5,2,0.05,25,Rigid,0.0
+325,19800,0,No Curve,12,No Median,2,2,3,2,0.03,50,Rigid,0.0
+326,1300,0,No Curve,13,No Median,2,2,8,1,0.02,55,Rigid,0.0
+327,1500,0,No Curve,11,No Median,2,2,8,1,0.04,55,Other,0.0
+328,2750,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+329,59,0,No Curve,11,No Median,2,2,8,1,0.06,40,Rigid,0.0
+330,17900,0,No Curve,14,No Median,4,2,5,2,0.07000000000000002,55,Rigid,1.0
+331,5500,0,No Curve,15,No Median,2,2,8,1,0.01,30,Rigid,1.0
+332,2300,0,No Curve,13,No Median,2,2,8,1,0.02,55,Rigid,0.0
+333,16500,0,No Curve,12,No Median,4,2,5,2,0.06,35,Rigid,1.0
+334,14500,0,No Curve,13,Median,4,2,4,2,0.01,30,Rigid,0.0
+335,1350,0,No Curve,11,No Median,2,2,8,1,0.06,55,Rigid,0.0
+336,5300,0,No Curve,12,Median,2,2,8,1,0.06,55,Rigid,0.0
+337,5800,0,No Curve,11,No Median,2,2,8,1,0.03,55,Rigid,1.0
+338,4200,0,No Curve,11,No Median,2,2,8,1,0.03,55,Other,0.0
+339,1150,0,No Curve,11,No Median,2,2,8,1,0.43,55,Rigid,1.0
+340,1550,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,1.0
+341,19800,0,No Curve,12,Median,4,2,4,2,0.01,40,Rigid,0.0
+342,11500,1,No Curve,12,Median,4,2,4,2,0.26,55,Rigid,0.0
+343,3500,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,30,Rigid,0.0
+344,3450,0,No Curve,11,No Median,2,2,8,1,0.01,45,Rigid,0.0
+345,8200,0,No Curve,12,No Median,2,2,3,2,0.01,30,Rigid,0.0
+346,4450,0,No Curve,11,No Median,2,2,8,1,0.06,55,Rigid,0.0
+347,3500,0,No Curve,12,No Median,2,2,8,1,0.19,35,Rigid,1.0
+348,29800,1,No Curve,12,No Median,2,2,3,2,0.06,55,Rigid,0.0
+349,3300,0,No Curve,12,No Median,2,2,8,1,0.01,30,Rigid,0.0
+350,10100,2,No Curve,12,Median,4,2,1,2,0.02,65,Rigid,0.0
+351,11000,0,No Curve,12,No Median,2,2,8,1,0.03,50,Flexible,0.0
+352,6300,1,No Curve,25,Median,2,2,8,1,0.01,50,Rigid,0.0
+353,27500,0,No Curve,12,No Median,3,1,99,2,0.05,30,Rigid,1.0
+354,3850,0,No Curve,12,No Median,2,2,3,2,0.08,55,Flexible,0.0
+355,15700,1,No Curve,12,No Median,2,2,3,2,0.07000000000000002,50,Rigid,0.0
+356,2250,0,No Curve,12,No Median,2,2,8,1,0.14,35,Rigid,0.0
+357,2750,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+358,48200,0,No Curve,11,Median,6,2,4,2,0.15,35,Rigid,1.0
+359,7809,1,No Curve,11,Median,4,2,4,2,0.49,45,Rigid,1.0
+360,1000,0,No Curve,10,No Median,2,2,8,1,0.22,55,Rigid,0.0
+361,2150,1,No Curve,11,No Median,2,2,8,1,0.73,55,Flexible,0.0
+362,25700,2,No Curve,12,Median,4,2,6,1,0.39,65,Rigid,0.0
+363,3200,0,No Curve,11,Median,2,2,8,1,0.01,55,Rigid,0.0
+364,10100,1,No Curve,12,No Median,2,2,3,2,0.02,55,Rigid,0.0
+365,1450,0,No Curve,12,No Median,2,2,8,1,0.12,55,Rigid,0.0
+366,33700,0,No Curve,12,Median,4,2,4,2,0.06,30,Rigid,1.0
+367,12100,0,No Curve,12,Median,4,2,4,2,0.04,45,Rigid,0.0
+368,2200,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+369,2850,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+370,34100,1,No Curve,12,Median,6,2,4,2,0.15,45,Rigid,1.0
+371,14400,0,No Curve,13,No Median,3,1,99,2,0.06,30,Rigid,1.0
+372,3200,0,No Curve,12,No Median,2,2,8,1,0.08,45,Rigid,0.0
+373,8300,0,No Curve,12,No Median,2,2,3,2,0.03,30,Rigid,0.0
+374,8500,0,No Curve,12,Median,4,2,4,2,0.02,45,Other,0.0
+375,14000,0,No Curve,12,No Median,2,2,3,2,0.04,35,Rigid,1.0
+376,4750,0,No Curve,12,No Median,2,2,8,1,0.44,55,Rigid,0.0
+377,10200,0,No Curve,14,No Median,2,2,3,2,0.05,55,Rigid,1.0
+378,3200,0,No Curve,12,No Median,2,2,8,1,0.71,35,Rigid,1.0
+379,28400,0,No Curve,12,Median,4,2,4,2,0.02,35,Rigid,0.0
+380,16100,0,No Curve,13,No Median,4,2,5,2,0.07000000000000002,35,Rigid,0.0
+381,850,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,1.0
+382,32100,0,No Curve,12,No Median,4,2,5,2,0.03,35,Rigid,0.0
+383,1200,0,No Curve,12,No Median,2,2,8,1,0.12,45,Rigid,0.0
+384,5100,0,No Curve,13,No Median,2,2,3,2,0.01,55,Rigid,0.0
+385,1250,0,No Curve,12,No Median,2,2,8,1,0.03,35,Rigid,0.0
+386,19500,2,No Curve,12,Median,4,2,6,1,0.15,65,Rigid,0.0
+387,3200,0,No Curve,11,Median,2,2,8,1,0.02,45,Rigid,0.0
+388,6400,0,No Curve,15,No Median,2,2,8,1,0.07000000000000002,30,Rigid,0.0
+389,36100,1,No Curve,12,Median,6,2,4,2,0.01,55,Other,0.0
+390,6900,0,No Curve,14,No Median,3,2,5,2,0.06,30,Rigid,0.0
+391,21400,0,No Curve,12,No Median,2,2,3,2,0.03,55,Rigid,0.0
+392,4100,0,No Curve,12,No Median,2,2,8,1,0.49,55,Rigid,0.0
+393,3500,0,No Curve,13,No Median,2,2,8,1,0.06,55,Rigid,0.0
+394,18200,1,No Curve,12,Median,2,2,3,2,0.07000000000000002,50,Rigid,0.0
+395,3250,2,No Curve,12,Median,4,2,6,1,0.01,65,Rigid,0.0
+396,3250,2,No Curve,12,Median,4,2,1,2,0.09,65,Rigid,0.0
+397,30300,1,No Curve,11,Median,4,2,4,2,0.04,45,Rigid,1.0
+398,11800,2,No Curve,12,Median,4,2,6,1,0.58,65,Rigid,1.0
+399,2000,0,No Curve,13,No Median,2,2,8,1,0.19,55,Rigid,0.0
+400,4550,0,No Curve,16,Median,4,2,4,2,0.04,45,Rigid,0.0
+401,1450,0,No Curve,11,No Median,2,2,8,1,0.04,55,Rigid,0.0
+402,2300,0,No Curve,11,No Median,2,2,3,2,0.12,55,Rigid,0.0
+403,4450,1,No Curve,12,No Median,2,2,8,1,0.03,35,Rigid,0.0
+404,19100,0,No Curve,12,No Median,4,2,5,2,0.11,35,Rigid,0.0
+405,16600,0,No Curve,12,No Median,4,2,5,2,0.03,40,Rigid,1.0
+406,21600,2,No Curve,12,Median,4,2,1,2,0.06,65,Rigid,0.0
+407,216700,2,No Curve,12,Median,8,2,1,2,0.02,55,Rigid,1.0
+408,14400,0,No Curve,12,No Median,2,2,3,2,0.08,55,Rigid,1.0
+409,4950,0,No Curve,13,No Median,2,2,3,2,0.01,40,Rigid,0.0
+410,21700,2,No Curve,12,Median,4,2,6,1,0.09,65,Rigid,0.0
+411,4850,1,No Curve,12,Median,4,2,9,1,0.1,55,Other,0.0
+412,10300,0,No Curve,11,No Median,4,2,5,2,0.07000000000000002,30,Rigid,1.0
+413,15800,0,No Curve,13,No Median,4,2,5,2,0.01,30,Flexible,0.0
+414,5000,0,No Curve,12,No Median,2,2,3,2,0.02,55,Rigid,1.0
+415,33600,0,No Curve,12,Median,6,2,4,2,0.01,40,Rigid,0.0
+416,1700,0,No Curve,11,No Median,2,2,8,1,0.01,55,Rigid,0.0
+417,3200,1,No Curve,12,No Median,2,2,8,1,0.05,45,Rigid,0.0
+418,2950,0,No Curve,11,No Median,2,2,3,2,0.04,30,Rigid,0.0
+419,13200,0,No Curve,12,Median,2,2,3,2,0.05,45,Rigid,0.0
+420,5100,0,Curve,12,No Median,2,2,8,1,0.06,55,Other,0.0
+421,19900,2,No Curve,12,Median,4,2,6,1,0.02,65,Rigid,0.0
+422,1300,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+423,8200,0,No Curve,12,Median,4,2,4,2,0.03,45,Rigid,0.0
+424,18300,2,No Curve,12,Median,4,2,6,1,0.17,65,Rigid,0.0
+425,2850,1,No Curve,11,No Median,2,2,8,1,0.22,55,Rigid,1.0
+426,7300,1,No Curve,12,No Median,2,2,8,1,0.16,55,Rigid,1.0
+427,3900,0,No Curve,13,No Median,3,2,5,2,0.03,40,Other,0.0
+428,2350,0,No Curve,12,No Median,2,2,8,1,0.25,55,Flexible,1.0
+429,1350,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+430,12000,0,Curve,12,No Median,2,2,3,2,0.02,35,Rigid,0.0
+431,1250,0,No Curve,13,No Median,2,2,8,1,0.09,30,Rigid,0.0
+432,5200,0,No Curve,11,No Median,2,2,8,1,0.04,55,Rigid,1.0
+433,1000,0,No Curve,12,No Median,2,2,8,1,0.04,35,Rigid,0.0
+434,7400,0,No Curve,12,No Median,2,2,3,2,0.01,40,Rigid,0.0
+435,3500,0,No Curve,12,No Median,2,2,8,1,0.64,55,Rigid,0.0
+436,2200,0,No Curve,12,No Median,2,2,8,1,0.01,50,Rigid,0.0
+437,1650,0,No Curve,12,No Median,2,2,8,1,0.4,55,Rigid,0.0
+438,5000,1,No Curve,12,No Median,2,2,3,2,0.02,55,Rigid,0.0
+439,1200,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+440,13800,0,No Curve,12,No Median,2,2,3,2,0.2,40,Rigid,1.0
+441,25000,2,No Curve,12,Median,4,2,6,1,0.65,65,Rigid,0.0
+442,15400,0,No Curve,12,No Median,2,2,3,2,0.03,50,Rigid,0.0
+443,9800,0,No Curve,13,Median,4,2,4,2,0.02,30,Rigid,0.0
+444,22200,2,No Curve,12,Median,4,2,6,1,0.4600000000000001,65,Rigid,1.0
+445,3900,0,No Curve,12,Median,2,2,8,1,0.01,35,Rigid,0.0
+446,5000,1,No Curve,12,No Median,2,2,8,1,0.38,55,Rigid,0.0
+447,2750,0,No Curve,11,No Median,2,2,3,2,0.06,35,Rigid,0.0
+448,1250,0,No Curve,11,No Median,2,2,8,1,0.03,55,Flexible,0.0
+449,8700,0,No Curve,12,No Median,4,2,5,2,0.16,40,Rigid,0.0
+450,3450,0,No Curve,11,No Median,2,2,8,1,0.38,50,Rigid,1.0
+451,29300,0,No Curve,13,Median,4,2,4,2,0.05,30,Rigid,0.0
+452,3400,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+453,7200,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,1.0
+454,3300,0,No Curve,12,No Median,2,2,8,1,0.08,35,Rigid,0.0
+455,40100,0,No Curve,12,Median,6,2,4,2,0.08,40,Rigid,1.0
+456,1450,0,No Curve,11,No Median,2,2,8,1,0.13,45,Rigid,1.0
+457,17800,0,No Curve,12,No Median,2,2,3,2,0.07000000000000002,25,Rigid,0.0
+458,1250,0,No Curve,12,No Median,2,2,8,1,0.09,55,Rigid,0.0
+459,14200,0,No Curve,12,Median,2,2,3,2,0.1,30,Rigid,1.0
+460,23100,0,No Curve,12,Median,4,2,4,2,0.05,30,Flexible,1.0
+461,2850,1,No Curve,12,Median,4,2,4,2,0.05,55,Rigid,1.0
+462,4500,0,No Curve,12,No Median,2,2,8,1,0.29,55,Rigid,1.0
+463,21700,1,No Curve,12,Median,4,2,4,2,0.01,55,Rigid,1.0
+464,21200,1,No Curve,12,Median,5,2,4,2,0.05,45,Rigid,1.0
+465,206400,2,No Curve,12,Median,10,2,1,2,0.05,55,Rigid,1.0
+466,12100,0,No Curve,14,Median,2,2,3,2,0.06,45,Rigid,0.0
+467,39500,0,No Curve,12,Median,4,2,4,2,0.1,40,Rigid,1.0
+468,2600,0,No Curve,10,No Median,2,2,8,1,0.22,40,Rigid,0.0
+469,44300,1,No Curve,11,Median,4,2,4,2,0.18,45,Rigid,2.0
+470,10200,0,Curve,12,Median,3,2,4,2,0.01,35,Other,0.0
+471,16300,0,No Curve,10,No Median,2,2,3,2,0.06,35,Rigid,1.0
+472,1050,0,Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+473,28400,1,No Curve,12,Median,4,2,4,2,0.29,55,Rigid,1.0
+474,5100,0,No Curve,11,No Median,2,2,8,1,0.17,55,Rigid,1.0
+475,10400,2,No Curve,12,Median,4,2,6,1,0.06,65,Other,0.0
+476,1550,0,No Curve,13,No Median,2,2,8,1,0.07000000000000002,30,Rigid,0.0
+477,6500,0,No Curve,12,No Median,4,2,5,2,0.08,40,Rigid,1.0
+478,4300,0,No Curve,12,No Median,1,1,99,2,0.1,35,Rigid,0.0
+479,2750,0,No Curve,11,No Median,2,2,8,1,0.04,55,Rigid,0.0
+480,18800,1,No Curve,12,Median,4,2,4,2,0.06,45,Rigid,0.0
+481,8800,1,No Curve,12,Median,4,2,4,2,0.02,55,Rigid,0.0
+482,8900,0,No Curve,15,No Median,2,2,8,1,0.07000000000000002,30,Rigid,1.0
+483,850,0,No Curve,12,No Median,2,2,8,1,0.1,55,Rigid,0.0
+484,66200,0,No Curve,12,No Median,7,2,5,2,0.06,55,Rigid,1.0
+485,1150,0,Curve,11,No Median,2,2,8,1,0.01,55,Rigid,0.0
+486,2500,0,No Curve,13,No Median,2,2,8,1,0.05,35,Rigid,0.0
+487,29900,0,No Curve,10,No Median,4,2,5,2,0.01,35,Rigid,0.0
+488,2550,0,No Curve,13,No Median,2,2,8,1,0.2,55,Rigid,0.0
+489,3950,0,No Curve,10,No Median,2,2,3,2,0.12,25,Flexible,1.0
+490,3250,2,No Curve,12,Median,4,2,1,2,0.09,65,Rigid,1.0
+491,26600,0,No Curve,12,Median,4,2,4,2,0.05,40,Rigid,0.0
+492,25700,0,No Curve,10,No Median,4,2,5,2,0.07000000000000002,30,Rigid,1.0
+493,1800,0,No Curve,12,No Median,2,2,8,1,0.95,55,Rigid,0.0
+494,308400,2,No Curve,12,Median,6,2,1,2,0.07000000000000002,55,Rigid,1.0
+495,26200,2,No Curve,12,Median,4,2,6,1,0.01,65,Rigid,0.0
+496,14900,0,No Curve,12,Median,2,2,3,2,0.07000000000000002,35,Rigid,1.0
+497,1909,1,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+498,12200,0,No Curve,15,No Median,2,2,3,2,0.07000000000000002,35,Rigid,1.0
+499,5500,0,No Curve,12,No Median,2,2,3,2,0.08,30,Rigid,1.0
+500,1200,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+501,2050,0,No Curve,12,No Median,2,2,8,1,0.04,55,Other,0.0
+502,2350,1,No Curve,12,No Median,2,2,8,1,0.14,55,Rigid,1.0
+503,4050,0,No Curve,11,No Median,2,2,8,1,0.04,40,Rigid,0.0
+504,6200,0,No Curve,12,No Median,2,2,8,1,0.12,55,Rigid,0.0
+505,10300,0,No Curve,10,No Median,2,2,3,2,0.18,30,Rigid,0.0
+506,4200,0,No Curve,12,No Median,2,2,8,1,0.02,45,Flexible,0.0
+507,37400,0,No Curve,11,No Median,4,2,5,2,0.08,35,Rigid,0.0
+508,1550,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+509,11100,0,No Curve,16,No Median,3,1,99,2,0.04,30,Other,1.0
+510,3550,0,Curve,13,No Median,2,2,8,1,0.08,55,Rigid,0.0
+511,46400,2,No Curve,12,Median,6,2,1,2,0.11,65,Rigid,0.0
+512,3050,0,No Curve,12,No Median,2,2,8,1,0.05,55,Rigid,0.0
+513,1050,0,No Curve,13,No Median,2,2,8,1,0.03,55,Rigid,0.0
+514,21900,2,No Curve,12,Median,4,2,6,1,0.09,65,Rigid,1.0
+515,9509,0,No Curve,12,No Median,2,2,3,2,0.04,30,Rigid,0.0
+516,44100,0,No Curve,12,Median,6,2,4,2,0.03,40,Rigid,0.0
+517,20000,0,No Curve,10,No Median,4,2,5,2,0.01,45,Rigid,0.0
+518,34300,0,No Curve,11,Median,4,2,4,2,0.01,35,Rigid,0.0
+519,3400,0,No Curve,13,No Median,2,2,8,1,0.03,35,Rigid,0.0
+520,13300,0,No Curve,10,No Median,2,2,3,2,0.04,30,Rigid,1.0
+521,15100,0,No Curve,11,No Median,4,2,5,2,0.06,25,Rigid,1.0
+522,22000,0,No Curve,10,No Median,4,2,5,2,0.13,35,Rigid,1.0
+523,2700,0,No Curve,12,No Median,2,2,8,1,0.06,50,Rigid,1.0
+524,1650,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+525,15700,0,No Curve,10,No Median,4,2,5,2,0.1,30,Rigid,1.0
+526,2400,0,No Curve,11,No Median,2,2,8,1,0.61,55,Rigid,0.0
+527,6300,0,No Curve,13,Median,2,2,8,1,0.07000000000000002,45,Rigid,0.0
+528,8800,1,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+529,3950,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+530,6400,0,No Curve,12,No Median,2,2,8,1,0.16,55,Rigid,0.0
+531,3350,0,No Curve,12,Median,2,2,8,1,0.03,55,Other,0.0
+532,8400,0,No Curve,12,Median,2,2,8,1,0.11,55,Rigid,1.0
+533,2650,0,No Curve,11,No Median,2,2,8,1,0.27,55,Rigid,1.0
+534,2750,0,No Curve,13,No Median,2,2,8,1,0.01,55,Rigid,0.0
+535,28300,0,No Curve,12,Median,4,2,4,2,0.06,35,Rigid,0.0
+536,3000,0,No Curve,13,No Median,2,2,8,1,0.14,55,Rigid,1.0
+537,7700,0,No Curve,10,No Median,4,2,5,2,0.16,45,Rigid,0.0
+538,12700,0,No Curve,11,No Median,4,2,5,2,0.03,35,Rigid,1.0
+539,1850,0,No Curve,13,No Median,2,2,8,1,0.02,55,Rigid,0.0
+540,10300,0,No Curve,12,Median,2,2,8,1,0.08,35,Rigid,1.0
+541,2200,0,No Curve,11,No Median,2,2,8,1,0.04,50,Rigid,0.0
+542,5500,0,No Curve,12,No Median,4,2,5,2,0.03,35,Rigid,0.0
+543,11400,1,No Curve,12,Median,4,2,9,1,0.01,65,Rigid,0.0
+544,7500,0,No Curve,13,No Median,2,2,3,2,0.13,55,Rigid,0.0
+545,20000,0,No Curve,11,No Median,4,2,5,2,0.04,35,Rigid,1.0
+546,27400,2,No Curve,12,Median,4,2,1,2,0.03,65,Rigid,0.0
+547,15100,1,No Curve,12,Median,4,2,4,2,0.14,50,Rigid,1.0
+548,13900,2,No Curve,12,Median,4,2,1,2,0.02,65,Rigid,0.0
+549,27900,1,No Curve,12,Median,4,2,4,2,0.17,55,Rigid,1.0
+550,850,1,No Curve,10,Median,2,2,8,1,0.02,55,Rigid,0.0
+551,1450,0,No Curve,11,No Median,2,2,8,1,0.04,55,Flexible,0.0
+552,2350,0,No Curve,12,No Median,2,2,8,1,0.01,55,Flexible,0.0
+553,25600,0,No Curve,11,Median,4,2,4,2,0.05,30,Rigid,1.0
+554,1050,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+555,15900,0,No Curve,12,No Median,2,2,3,2,0.02,35,Rigid,1.0
+556,1950,0,No Curve,13,No Median,2,2,8,1,0.25,55,Rigid,0.0
+557,4600,0,No Curve,12,Median,4,2,9,1,0.04,65,Other,0.0
+558,1850,0,No Curve,12,No Median,2,2,8,1,0.2,55,Rigid,0.0
+559,3300,0,No Curve,12,No Median,2,2,8,1,0.05,55,Rigid,0.0
+560,13100,0,No Curve,12,No Median,4,2,5,2,0.03,30,Rigid,0.0
+561,167800,2,No Curve,12,Median,6,2,1,2,0.19,55,Rigid,2.0
+562,32200,2,No Curve,12,Median,4,2,6,1,0.06,65,Rigid,1.0
+563,9800,1,No Curve,12,Median,4,2,4,2,0.43,45,Rigid,1.0
+564,2050,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+565,35100,0,No Curve,12,No Median,4,2,5,2,0.06,40,Rigid,1.0
+566,13200,0,No Curve,11,No Median,2,2,3,2,0.01,30,Rigid,0.0
+567,36000,0,No Curve,10,No Median,4,2,5,2,0.12,30,Rigid,1.0
+568,2000,0,No Curve,12,No Median,2,2,8,1,0.04,55,Flexible,0.0
+569,7000,0,No Curve,15,No Median,2,2,3,2,0.07000000000000002,55,Other,0.0
+570,22300,0,No Curve,11,No Median,4,2,5,2,0.15,35,Rigid,1.0
+571,13500,0,No Curve,12,No Median,2,2,3,2,0.01,45,Rigid,0.0
+572,1900,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+573,5100,0,No Curve,11,No Median,2,2,8,1,0.04,30,Rigid,0.0
+574,4100,0,No Curve,14,Median,2,2,3,2,0.03,55,Rigid,0.0
+575,11400,0,No Curve,13,No Median,4,2,5,2,0.07000000000000002,30,Rigid,0.0
+576,13400,0,No Curve,21,No Median,2,2,3,2,0.02,50,Rigid,1.0
+577,1450,0,No Curve,13,No Median,2,2,8,1,0.03,30,Rigid,0.0
+578,20500,2,No Curve,12,Median,4,2,6,1,0.03,65,Rigid,0.0
+579,2850,0,No Curve,12,No Median,2,2,3,2,0.63,55,Rigid,0.0
+580,1000,0,No Curve,11,No Median,2,2,8,1,0.04,35,Rigid,0.0
+581,3050,0,No Curve,12,No Median,2,2,8,1,0.05,55,Rigid,0.0
+582,1150,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+583,1400,0,No Curve,11,No Median,2,2,8,1,0.09,55,Rigid,0.0
+584,29100,0,No Curve,11,No Median,4,2,5,2,0.06,55,Rigid,1.0
+585,21800,2,No Curve,12,Median,4,2,6,1,0.16,65,Rigid,0.0
+586,7500,0,No Curve,16,Median,2,2,8,1,0.01,55,Rigid,0.0
+587,1700,0,No Curve,13,No Median,2,2,8,1,0.26,55,Rigid,0.0
+588,1700,0,No Curve,13,No Median,2,2,8,1,0.19,55,Rigid,0.0
+589,750,0,No Curve,11,No Median,2,2,8,1,0.04,55,Rigid,0.0
+590,2250,0,No Curve,12,No Median,2,2,8,1,0.13,55,Rigid,0.0
+591,11400,2,No Curve,12,Median,4,2,6,1,0.01,65,Rigid,0.0
+592,2800,0,No Curve,13,No Median,2,2,8,1,0.02,45,Rigid,0.0
+593,3250,0,No Curve,12,No Median,2,2,8,1,0.12,55,Rigid,0.0
+594,3850,0,No Curve,11,No Median,2,2,8,1,0.21,55,Rigid,0.0
+595,20600,0,No Curve,10,No Median,4,2,5,2,0.02,40,Rigid,1.0
+596,4500,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+597,5200,0,No Curve,12,Median,2,2,3,2,0.03,40,Rigid,0.0
+598,19000,0,No Curve,12,No Median,4,2,5,2,0.01,45,Rigid,0.0
+599,9900,0,Curve,12,No Median,4,2,5,2,0.04,40,Rigid,0.0
+600,5700,0,No Curve,12,No Median,2,2,3,2,0.04,45,Rigid,1.0
+601,20800,0,No Curve,12,No Median,4,2,5,2,0.04,30,Rigid,1.0
+602,375,0,No Curve,10,No Median,2,2,8,1,0.01,55,Flexible,0.0
+603,250,0,No Curve,12,No Median,2,2,8,1,0.13,35,Rigid,0.0
+604,2800,0,No Curve,12,No Median,2,2,8,1,0.1,55,Rigid,0.0
+605,1800,0,No Curve,13,No Median,2,2,8,1,0.04,55,Rigid,0.0
+606,23300,1,No Curve,12,No Median,4,2,5,2,0.03,35,Other,0.0
+607,27600,0,No Curve,11,No Median,4,2,5,2,0.01,35,Rigid,1.0
+608,1450,0,No Curve,16,No Median,2,2,8,1,0.02,55,Rigid,0.0
+609,12100,0,No Curve,11,Median,4,2,4,2,0.01,45,Rigid,0.0
+610,1100,0,No Curve,12,No Median,2,2,8,1,0.66,55,Rigid,1.0
+611,5200,1,No Curve,12,No Median,2,2,3,2,0.03,50,Rigid,0.0
+612,2650,1,No Curve,12,Median,2,2,8,1,0.09,55,Rigid,1.0
+613,29500,2,No Curve,12,Median,4,2,1,2,0.01,65,Rigid,0.0
+614,800,0,No Curve,11,No Median,4,2,10,1,0.09,35,Rigid,0.0
+615,30500,0,No Curve,12,Median,4,2,4,2,0.03,45,Rigid,1.0
+616,1050,0,No Curve,12,No Median,2,2,8,1,0.28,55,Rigid,0.0
+617,59800,2,No Curve,12,Median,4,2,1,2,0.09,55,Rigid,1.0
+618,5100,0,No Curve,11,No Median,2,2,8,1,0.03,55,Rigid,0.0
+619,20000,0,No Curve,12,No Median,2,2,3,2,0.02,35,Rigid,1.0
+620,6900,0,No Curve,12,Median,2,2,3,2,0.11,35,Rigid,0.0
+621,12900,0,No Curve,12,No Median,2,2,3,2,0.03,50,Rigid,1.0
+622,16400,1,No Curve,12,Median,6,2,4,2,0.06,55,Other,0.0
+623,5200,0,No Curve,12,No Median,2,2,8,1,0.04,40,Rigid,0.0
+624,17400,0,No Curve,11,Median,2,2,3,2,0.16,45,Rigid,1.0
+625,1900,0,Curve,12,No Median,2,2,8,1,0.11,55,Rigid,1.0
+626,1550,0,No Curve,13,No Median,2,2,8,1,0.05,55,Rigid,0.0
+627,4050,0,No Curve,11,No Median,2,2,8,1,0.06,50,Rigid,0.0
+628,28100,0,No Curve,12,Median,5,2,4,2,0.1,45,Other,1.0
+629,43700,0,No Curve,12,Median,4,2,4,2,0.02,30,Rigid,1.0
+630,1250,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+631,250,0,No Curve,10,No Median,2,2,8,1,0.04,30,Flexible,0.0
+632,4250,0,No Curve,24,Median,2,2,8,1,0.07000000000000002,40,Rigid,1.0
+633,3850,0,No Curve,12,Median,2,2,8,1,0.01,55,Rigid,0.0
+634,4300,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Other,0.0
+635,7800,0,No Curve,12,No Median,2,2,3,2,0.09,55,Rigid,0.0
+636,4750,0,No Curve,10,No Median,2,2,3,2,0.08,35,Rigid,1.0
+637,3250,0,No Curve,10,No Median,2,2,3,2,0.51,35,Rigid,1.0
+638,21300,2,No Curve,12,Median,4,2,6,1,0.19,65,Rigid,1.0
+639,41500,1,No Curve,12,Median,4,2,4,2,0.01,55,Rigid,1.0
+640,19700,0,No Curve,12,Median,4,2,4,2,0.03,45,Rigid,0.0
+641,8100,0,No Curve,12,Median,2,2,3,2,0.02,55,Rigid,0.0
+642,5500,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+643,6200,0,No Curve,13,No Median,2,2,8,1,0.1,55,Rigid,1.0
+644,4350,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+645,3350,0,No Curve,14,No Median,1,1,99,1,0.03,30,Rigid,0.0
+646,47200,0,No Curve,12,Median,6,2,4,2,0.04,45,Rigid,0.0
+647,5500,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+648,17400,0,No Curve,12,No Median,2,2,3,2,0.04,35,Rigid,1.0
+649,19700,0,No Curve,12,Median,4,2,4,2,0.14,45,Rigid,0.0
+650,4100,0,No Curve,12,No Median,2,2,8,1,0.05,55,Rigid,0.0
+651,1900,0,No Curve,12,No Median,2,2,8,1,0.13,55,Rigid,0.0
+652,13400,0,No Curve,14,No Median,2,2,3,2,0.07000000000000002,30,Rigid,1.0
+653,23100,0,No Curve,10,No Median,4,2,5,2,0.02,30,Rigid,1.0
+654,3350,0,No Curve,11,No Median,2,2,8,1,0.02,55,Rigid,0.0
+655,7200,1,No Curve,11,Median,4,2,4,2,0.08,45,Rigid,0.0
+656,5200,0,No Curve,12,No Median,2,2,8,1,0.25,55,Rigid,0.0
+657,28600,0,No Curve,12,No Median,4,2,5,2,0.04,45,Rigid,0.0
+658,3550,0,No Curve,12,No Median,2,2,8,1,0.1,35,Rigid,0.0
+659,1500,0,No Curve,11,No Median,2,2,8,1,0.26,55,Rigid,0.0
+660,4000,0,No Curve,12,No Median,2,2,8,1,0.6,55,Rigid,0.0
+661,750,0,No Curve,11,No Median,2,2,8,1,0.21,55,Flexible,0.0
+662,9400,2,No Curve,12,Median,4,2,6,1,0.05,65,Rigid,0.0
+663,20700,0,No Curve,12,No Median,4,2,5,2,0.07000000000000002,35,Rigid,0.0
+664,200,0,No Curve,11,No Median,2,2,8,1,0.32,45,Rigid,0.0
+665,45800,2,No Curve,12,Median,4,2,1,2,0.01,65,Rigid,0.0
+666,4500,0,No Curve,11,No Median,2,2,3,2,0.02,50,Other,0.0
+667,6200,0,No Curve,11,No Median,2,2,8,1,0.17,55,Rigid,0.0
+668,6400,0,No Curve,13,No Median,2,2,8,1,0.55,55,Rigid,1.0
+669,298700,2,No Curve,12,Median,10,2,1,2,0.1,45,Rigid,0.0
+670,3000,1,No Curve,11,No Median,2,2,8,1,0.02,55,Flexible,0.0
+671,19100,0,No Curve,12,Median,4,2,4,2,0.03,45,Rigid,0.0
+672,9000,0,No Curve,12,No Median,4,2,5,2,0.01,55,Rigid,0.0
+673,850,0,No Curve,10,No Median,2,2,8,1,0.08,55,Rigid,0.0
+674,4400,0,No Curve,12,No Median,2,2,3,2,0.01,55,Rigid,0.0
+675,24200,0,No Curve,12,Median,4,2,4,2,0.03,45,Rigid,0.0
+676,2700,0,No Curve,11,No Median,2,2,8,1,0.18,55,Rigid,1.0
+677,1400,0,No Curve,12,No Median,2,2,3,2,0.14,30,Rigid,0.0
+678,11300,0,No Curve,12,No Median,2,2,3,2,0.1,30,Rigid,0.0
+679,7300,0,No Curve,11,No Median,2,2,3,2,0.04,50,Rigid,0.0
+680,2900,0,No Curve,12,No Median,2,2,8,1,0.11,55,Flexible,0.0
+681,10800,2,No Curve,12,Median,4,2,1,2,0.02,65,Rigid,0.0
+682,4650,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+683,7700,0,No Curve,15,No Median,2,2,3,2,0.05,30,Rigid,1.0
+684,8800,0,No Curve,12,Median,2,2,3,2,0.1,45,Rigid,0.0
+685,2250,0,No Curve,10,No Median,4,2,5,2,0.39,45,Rigid,0.0
+686,2150,0,No Curve,13,No Median,2,2,8,1,0.03,55,Rigid,0.0
+687,7200,1,No Curve,12,Median,4,2,4,2,0.03,45,Rigid,0.0
+688,1900,0,No Curve,11,No Median,2,2,8,1,0.14,45,Rigid,0.0
+689,3250,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+690,4600,0,No Curve,10,No Median,4,2,5,2,0.09,45,Rigid,0.0
+691,15600,2,No Curve,12,Median,4,2,6,1,0.04,65,Rigid,0.0
+692,4050,0,No Curve,12,No Median,2,2,3,2,0.16,45,Rigid,0.0
+693,24500,0,No Curve,15,No Median,4,2,5,2,0.03,55,Rigid,0.0
+694,2100,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+695,7000,0,No Curve,12,No Median,2,2,3,2,0.04,30,Rigid,0.0
+696,28900,2,No Curve,12,Median,4,2,1,2,0.05,65,Rigid,0.0
+697,7600,2,No Curve,12,No Median,2,2,7,1,0.61,55,Flexible,0.0
+698,50,0,No Curve,12,No Median,2,2,3,2,0.02,10,Rigid,0.0
+699,350,0,No Curve,10,No Median,2,2,8,1,0.72,55,Rigid,0.0
+700,8200,0,No Curve,13,No Median,2,2,3,2,0.02,25,Rigid,1.0
+701,1150,0,No Curve,12,No Median,2,2,8,1,0.19,55,Rigid,1.0
+702,30200,1,No Curve,11,Median,4,2,4,2,0.06,45,Rigid,1.0
+703,5500,0,Curve,12,No Median,2,2,8,1,0.18,55,Rigid,1.0
+704,32100,0,No Curve,11,No Median,4,2,5,2,0.03,40,Rigid,1.0
+705,7100,0,No Curve,12,No Median,2,2,3,2,0.08,45,Rigid,0.0
+706,5800,0,No Curve,10,Median,8,2,4,2,0.12,35,Rigid,1.0
+707,14300,0,No Curve,12,Median,4,2,4,2,0.11,40,Rigid,1.0
+708,6800,1,No Curve,12,Median,6,2,4,2,0.12,55,Rigid,0.0
+709,46100,1,No Curve,12,Median,4,2,4,2,0.09,45,Rigid,1.0
+710,10300,0,No Curve,12,No Median,2,2,3,2,0.01,25,Rigid,0.0
+711,18600,0,No Curve,12,No Median,4,2,5,2,0.28,40,Rigid,1.0
+712,2500,0,No Curve,12,No Median,2,2,8,1,0.12,55,Rigid,0.0
+713,27400,0,No Curve,11,Median,4,2,4,2,0.04,40,Rigid,1.0
+714,163800,2,No Curve,12,Median,8,2,1,2,0.01,55,Rigid,0.0
+715,10400,0,No Curve,12,No Median,2,2,3,2,0.07000000000000002,35,Rigid,1.0
+716,13700,0,No Curve,12,No Median,2,2,3,2,0.01,30,Rigid,0.0
+717,69000,2,No Curve,12,Median,6,2,1,2,0.01,55,Rigid,0.0
+718,9400,0,No Curve,13,No Median,2,2,8,1,0.09,55,Rigid,0.0
+719,600,0,No Curve,11,No Median,2,2,8,1,0.06,30,Flexible,1.0
+720,1400,0,No Curve,13,No Median,2,2,8,1,0.02,55,Rigid,0.0
+721,2200,0,No Curve,11,No Median,2,2,8,1,0.38,55,Rigid,0.0
+722,5000,0,No Curve,12,Median,4,2,9,1,0.05,55,Other,1.0
+723,2100,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+724,24100,2,No Curve,12,Median,4,2,1,2,0.11,65,Rigid,1.0
+725,60500,2,No Curve,12,Median,6,2,1,2,0.1,55,Rigid,1.0
+726,21200,0,No Curve,12,Median,4,2,4,2,0.04,40,Rigid,1.0
+727,33200,0,No Curve,12,Median,4,2,4,2,0.05,45,Rigid,1.0
+728,5600,0,No Curve,13,No Median,2,2,8,1,0.09,35,Rigid,0.0
+729,3700,0,No Curve,13,No Median,2,2,8,1,0.26,55,Rigid,1.0
+730,17600,0,No Curve,11,No Median,2,2,3,2,0.3,50,Rigid,1.0
+731,1700,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+732,1400,0,No Curve,13,No Median,2,2,8,1,0.01,55,Rigid,0.0
+733,6700,0,No Curve,12,No Median,3,2,10,1,0.28,55,Rigid,1.0
+734,1900,0,No Curve,12,No Median,2,2,3,2,0.04,55,Rigid,0.0
+735,2750,0,Curve,12,No Median,2,2,8,1,0.08,55,Rigid,1.0
+736,2300,0,No Curve,11,No Median,2,2,8,1,0.47,55,Rigid,1.0
+737,11200,0,No Curve,12,Median,4,2,4,2,0.11,55,Rigid,0.0
+738,14400,0,No Curve,12,Median,4,2,4,2,0.04,35,Rigid,0.0
+739,700,0,No Curve,12,No Median,2,2,8,1,0.2,55,Rigid,1.0
+740,8900,0,No Curve,12,No Median,2,2,3,2,0.06,35,Rigid,0.0
+741,800,0,No Curve,11,No Median,2,2,8,1,0.06,55,Rigid,0.0
+742,850,0,No Curve,11,No Median,2,2,8,1,0.05,55,Rigid,0.0
+743,21450,1,No Curve,12,Median,4,2,4,2,0.02,55,Rigid,0.0
+744,1500,0,No Curve,11,No Median,2,2,8,1,0.01,55,Rigid,0.0
+745,3550,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+746,11300,0,No Curve,14,No Median,2,2,3,2,0.07000000000000002,30,Rigid,1.0
+747,17200,0,No Curve,12,Median,4,2,4,2,0.01,40,Rigid,0.0
+748,1250,0,Curve,13,No Median,2,2,8,1,0.01,55,Rigid,0.0
+749,4700,1,No Curve,12,No Median,2,2,8,1,0.49,55,Rigid,0.0
+750,69300,2,No Curve,12,Median,6,2,1,2,0.01,50,Rigid,0.0
+751,106100,2,No Curve,12,Median,6,2,1,2,0.15,55,Rigid,0.0
+752,3950,0,No Curve,11,No Median,2,2,8,1,0.17,55,Rigid,0.0
+753,1400,0,No Curve,11,No Median,2,2,3,2,0.18,35,Flexible,1.0
+754,21000,0,No Curve,12,Median,4,2,4,2,0.03,55,Rigid,1.0
+755,26200,0,No Curve,12,No Median,4,2,5,2,0.04,25,Rigid,0.0
+756,13500,2,No Curve,12,Median,4,2,6,1,0.13,65,Rigid,0.0
+757,8300,1,No Curve,12,Median,4,2,4,2,0.02,45,Rigid,0.0
+758,26100,0,No Curve,11,No Median,2,2,3,2,0.01,45,Rigid,1.0
+759,5000,0,No Curve,12,No Median,2,2,8,1,0.04,30,Rigid,1.0
+760,31200,2,No Curve,12,Median,4,2,6,1,0.42,65,Rigid,1.0
+761,7500,0,No Curve,12,No Median,2,2,3,2,0.03,55,Rigid,0.0
+762,9200,0,No Curve,11,No Median,4,2,5,2,0.04,35,Rigid,0.0
+763,6000,0,No Curve,12,No Median,2,2,3,2,0.04,55,Rigid,0.0
+764,5400,0,No Curve,12,No Median,2,2,8,1,0.04,30,Rigid,0.0
+765,1300,0,No Curve,11,No Median,2,2,8,1,0.16,55,Rigid,0.0
+766,6400,0,No Curve,12,No Median,2,2,3,2,0.17,40,Other,1.0
+767,6000,0,No Curve,13,No Median,2,2,3,2,0.01,45,Rigid,0.0
+768,14600,0,No Curve,12,No Median,2,2,3,2,0.14,35,Flexible,1.0
+769,9200,0,No Curve,12,Median,4,2,4,2,0.04,30,Rigid,0.0
+770,6500,0,No Curve,13,No Median,2,2,8,1,0.99,55,Rigid,1.0
+771,9300,0,No Curve,12,Median,4,2,4,2,0.06,55,Rigid,0.0
+772,11000,0,No Curve,13,No Median,2,2,3,2,0.04,45,Rigid,0.0
+773,40300,0,No Curve,12,Median,4,2,4,2,0.05,35,Rigid,1.0
+774,34100,0,No Curve,12,Median,4,2,4,2,0.08,40,Other,1.0
+775,3600,0,No Curve,13,No Median,2,2,8,1,0.04,40,Rigid,0.0
+776,1500,0,No Curve,12,No Median,2,2,8,1,0.03,30,Rigid,0.0
+777,3150,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+778,2700,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+779,16300,0,No Curve,10,No Median,2,2,3,2,0.03,35,Rigid,0.0
+780,7100,0,No Curve,12,Median,4,2,9,1,0.01,45,Other,0.0
+781,7000,0,No Curve,12,Median,4,2,9,1,0.67,55,Rigid,1.0
+782,3150,0,No Curve,12,No Median,2,2,8,1,1.0,55,Rigid,1.0
+783,5000,1,No Curve,12,No Median,2,2,8,1,0.06,55,Other,1.0
+784,9900,0,No Curve,13,No Median,2,2,3,2,0.02,45,Rigid,0.0
+785,12500,0,No Curve,12,No Median,2,2,3,2,0.02,30,Rigid,0.0
+786,10400,2,No Curve,12,Median,4,2,6,1,0.42,65,Other,1.0
+787,2700,0,No Curve,12,No Median,2,2,3,2,0.06,55,Rigid,0.0
+788,27800,2,No Curve,12,Median,4,2,6,1,0.24,65,Rigid,0.0
+789,2000,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Rigid,1.0
+790,500,0,No Curve,10,No Median,2,2,8,1,0.09,30,Flexible,0.0
+791,9600,0,No Curve,12,Median,4,2,4,2,0.06,45,Rigid,1.0
+792,2800,0,No Curve,11,No Median,2,2,8,1,0.12,55,Rigid,1.0
+793,10300,0,No Curve,14,No Median,2,2,8,1,0.04,35,Rigid,0.0
+794,5400,0,No Curve,12,No Median,2,2,3,2,0.62,35,Rigid,1.0
+795,17300,1,No Curve,12,Median,4,2,4,2,0.06,55,Rigid,0.0
+796,12000,0,No Curve,12,Median,2,2,3,2,0.04,30,Rigid,0.0
+797,26300,0,No Curve,12,Median,4,2,4,2,0.32,55,Rigid,1.0
+798,15900,0,No Curve,12,No Median,4,2,5,2,0.12,30,Rigid,1.0
+799,7900,0,No Curve,12,No Median,4,2,5,2,0.02,55,Rigid,0.0
+800,277000,2,No Curve,12,Median,8,2,1,2,0.03,55,Rigid,0.0
+801,2000,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Flexible,1.0
+802,2050,1,No Curve,12,No Median,2,2,8,1,0.09,55,Rigid,0.0
+803,1200,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+804,34700,2,No Curve,12,Median,6,2,1,2,0.13,65,Rigid,1.0
+805,13000,0,No Curve,12,No Median,3,1,99,2,0.07000000000000002,30,Rigid,1.0
+806,4050,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,1.0
+807,1700,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+808,2550,0,No Curve,12,No Median,2,2,8,1,0.06,30,Rigid,0.0
+809,9800,0,No Curve,11,No Median,4,2,5,2,0.02,35,Rigid,0.0
+810,17200,0,No Curve,20,No Median,2,2,8,1,0.03,55,Rigid,0.0
+811,22900,0,No Curve,12,Median,5,2,4,2,0.1,30,Rigid,1.0
+812,166200,2,No Curve,12,Median,10,2,1,2,0.01,45,Rigid,0.0
+813,21500,0,No Curve,12,No Median,2,2,3,2,0.09,45,Rigid,1.0
+814,3550,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+815,2900,0,No Curve,14,Median,2,2,3,2,0.01,30,Flexible,0.0
+816,2250,0,No Curve,11,No Median,2,2,8,1,0.01,55,Rigid,0.0
+817,15600,0,No Curve,12,Median,4,2,4,2,0.01,45,Rigid,0.0
+818,21200,0,No Curve,12,No Median,2,2,3,2,0.09,25,Rigid,1.0
+819,62000,2,No Curve,12,Median,4,2,1,2,0.19,65,Rigid,1.0
+820,2400,0,No Curve,12,No Median,2,2,8,1,0.16,55,Rigid,0.0
+821,2450,0,No Curve,12,No Median,2,2,8,1,0.23000000000000004,30,Rigid,1.0
+822,3200,0,No Curve,12,No Median,2,2,8,1,0.51,55,Rigid,1.0
+823,7500,0,No Curve,12,No Median,2,2,3,2,0.06,40,Rigid,0.0
+824,6400,0,No Curve,12,Median,4,2,4,2,0.03,30,Rigid,1.0
+825,1700,0,No Curve,12,No Median,2,2,8,1,0.23000000000000004,55,Rigid,0.0
+826,9400,0,No Curve,12,No Median,2,2,3,2,0.04,40,Rigid,0.0
+827,7000,0,No Curve,12,Median,2,2,8,1,0.04,40,Rigid,0.0
+828,2650,0,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,0.0
+829,4150,1,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+830,12100,0,No Curve,12,No Median,2,2,3,2,0.01,40,Rigid,0.0
+831,36900,0,No Curve,12,Median,4,2,4,2,0.03,35,Rigid,1.0
+832,2800,0,No Curve,11,No Median,2,2,8,1,0.02,55,Rigid,0.0
+833,7800,0,No Curve,15,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+834,19700,0,No Curve,12,Median,2,2,3,2,0.07000000000000002,35,Rigid,1.0
+835,2000,0,No Curve,11,No Median,2,2,8,1,0.12,45,Rigid,0.0
+836,31500,0,No Curve,12,Median,4,2,4,2,0.04,30,Rigid,1.0
+837,750,1,No Curve,11,No Median,2,2,8,1,0.31,55,Rigid,0.0
+838,34100,0,No Curve,12,Median,4,2,4,2,0.04,45,Rigid,1.0
+839,17700,2,No Curve,12,Median,4,2,6,1,0.02,65,Other,0.0
+840,2450,0,No Curve,11,No Median,2,2,8,1,0.1,55,Rigid,0.0
+841,4850,0,Curve,12,No Median,2,2,8,1,0.02,45,Rigid,0.0
+842,21000,0,No Curve,12,No Median,4,2,5,2,0.03,30,Rigid,1.0
+843,2400,0,No Curve,12,No Median,2,2,8,1,0.06,55,Rigid,0.0
+844,5600,0,No Curve,12,No Median,2,2,8,1,0.66,55,Rigid,0.0
+845,4600,0,No Curve,12,No Median,2,2,3,2,0.07000000000000002,40,Rigid,0.0
+846,35900,0,No Curve,12,Median,4,2,4,2,0.09,45,Rigid,1.0
+847,12800,0,No Curve,10,No Median,4,2,5,2,0.05,35,Rigid,0.0
+848,27600,2,No Curve,12,Median,4,2,1,2,0.01,65,Rigid,0.0
+849,21200,0,No Curve,12,No Median,2,2,3,2,0.08,45,Rigid,2.0
+850,19800,0,No Curve,12,No Median,4,2,5,2,0.02,35,Rigid,1.0
+851,5900,1,No Curve,12,Median,2,2,8,1,0.03,55,Rigid,0.0
+852,1050,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+853,14400,0,No Curve,12,No Median,2,1,99,2,0.04,30,Rigid,1.0
+854,1800,0,No Curve,12,No Median,2,2,8,1,0.15,55,Rigid,0.0
+855,11800,1,No Curve,12,Median,4,2,4,2,0.11,45,Rigid,0.0
+856,8600,0,No Curve,12,No Median,2,2,3,2,0.06,30,Rigid,0.0
+857,3800,0,No Curve,11,No Median,2,2,8,1,0.08,40,Rigid,1.0
+858,19500,0,No Curve,10,Median,4,2,4,2,0.18,45,Rigid,1.0
+859,3800,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,45,Rigid,0.0
+860,10700,1,No Curve,12,Median,4,2,4,2,0.21,55,Other,0.0
+861,33300,0,No Curve,12,Median,6,2,4,2,0.08,30,Other,1.0
+862,5500,0,No Curve,13,No Median,2,2,8,1,0.01,40,Rigid,0.0
+863,13500,0,No Curve,11,No Median,2,2,3,2,0.07000000000000002,30,Rigid,0.0
+864,500,0,No Curve,10,No Median,2,2,8,1,0.07000000000000002,30,Rigid,0.0
+865,30400,0,No Curve,12,Median,4,2,4,2,0.08,45,Rigid,1.0
+866,2850,0,No Curve,11,No Median,2,2,8,1,0.2,55,Rigid,0.0
+867,5600,1,No Curve,11,No Median,2,2,8,1,0.04,55,Rigid,0.0
+868,5500,0,No Curve,11,No Median,2,2,8,1,0.37,55,Rigid,0.0
+869,1850,0,No Curve,12,No Median,2,2,8,1,0.1,55,Rigid,0.0
+870,16400,0,No Curve,12,No Median,2,2,3,2,0.04,40,Rigid,1.0
+871,24100,0,No Curve,11,Median,4,2,4,2,0.05,35,Rigid,1.0
+872,8900,0,No Curve,12,No Median,2,2,3,2,0.14,50,Rigid,1.0
+873,3650,0,No Curve,12,No Median,2,2,8,1,0.26,55,Rigid,1.0
+874,30300,0,No Curve,11,No Median,4,2,5,2,0.01,45,Rigid,0.0
+875,2950,0,No Curve,12,No Median,2,2,3,2,0.08,50,Rigid,0.0
+876,18200,2,No Curve,16,No Median,1,1,99,2,0.01,45,Rigid,0.0
+877,1800,0,No Curve,12,No Median,2,2,8,1,0.2,55,Flexible,0.0
+878,1150,0,No Curve,12,No Median,2,2,8,1,0.24,55,Rigid,0.0
+879,4050,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+880,23000,1,No Curve,12,Median,2,2,3,2,0.01,45,Rigid,1.0
+881,9600,1,No Curve,12,No Median,2,2,8,1,0.19,50,Rigid,0.0
+882,3700,0,No Curve,12,No Median,2,2,3,2,0.01,45,Rigid,0.0
+883,12500,1,No Curve,12,Median,4,2,4,2,0.07000000000000002,45,Other,0.0
+884,10900,0,No Curve,14,No Median,2,2,3,2,0.05,30,Rigid,1.0
+885,300,0,No Curve,12,No Median,2,2,3,2,0.08,30,Flexible,0.0
+886,3050,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+887,2000,0,No Curve,18,No Median,2,2,3,2,0.02,35,Rigid,0.0
+888,34400,2,No Curve,12,Median,4,2,6,1,0.05,65,Rigid,1.0
+889,6500,0,No Curve,12,No Median,2,2,8,1,0.1,55,Rigid,1.0
+890,2450,0,No Curve,12,No Median,2,2,8,1,0.23000000000000004,30,Rigid,0.0
+891,5200,0,No Curve,13,No Median,2,2,3,2,0.11,55,Rigid,0.0
+892,14800,0,No Curve,12,No Median,2,2,3,2,0.03,40,Rigid,1.0
+893,2400,0,No Curve,18,No Median,2,2,8,1,0.04,30,Rigid,0.0
+894,2350,0,No Curve,12,Median,2,2,8,1,0.06,55,Other,0.0
+895,3000,1,No Curve,12,No Median,2,2,8,1,0.02,55,Rigid,1.0
+896,36800,2,No Curve,12,Median,4,2,1,2,0.45,65,Rigid,1.0
+897,4250,0,No Curve,12,No Median,2,2,8,1,0.36,55,Rigid,0.0
+898,53200,2,No Curve,12,Median,4,2,1,2,0.5,55,Rigid,1.0
+899,31500,1,No Curve,12,Median,4,2,4,2,0.23000000000000004,55,Rigid,1.0
+900,2550,0,No Curve,12,No Median,2,2,8,1,0.09,55,Rigid,0.0
+901,33000,1,No Curve,12,Median,4,2,4,2,0.06,45,Rigid,1.0
+902,5900,1,No Curve,12,Median,4,2,9,1,0.1,55,Flexible,0.0
+903,7900,0,No Curve,11,No Median,2,2,3,2,0.08,35,Rigid,0.0
+904,8200,1,Curve,13,No Median,2,2,3,2,0.04,55,Rigid,0.0
+905,10000,0,No Curve,11,No Median,2,2,3,2,0.06,30,Rigid,1.0
+906,30200,2,No Curve,12,Median,4,2,6,1,0.01,65,Rigid,0.0
+907,24600,2,No Curve,12,Median,6,2,1,2,0.08,65,Rigid,0.0
+908,39200,0,No Curve,12,Median,4,2,4,2,0.07000000000000002,45,Rigid,2.0
+909,3800,0,No Curve,12,Median,4,2,9,1,0.01,45,Rigid,0.0
+910,2100,0,No Curve,16,Median,2,2,8,1,0.1,55,Rigid,0.0
+911,2500,0,No Curve,12,No Median,2,2,8,1,0.1,55,Rigid,0.0
+912,17100,2,No Curve,12,Median,4,2,6,1,0.21,65,Rigid,0.0
+913,1800,0,No Curve,12,No Median,2,2,8,1,0.38,45,Rigid,0.0
+914,4350,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+915,475,0,No Curve,10,No Median,2,2,8,1,0.1,55,Rigid,0.0
+916,12800,0,No Curve,12,No Median,2,2,3,2,0.12,50,Rigid,1.0
+917,7700,0,No Curve,13,Median,2,2,8,1,0.01,55,Rigid,0.0
+918,2350,0,No Curve,12,No Median,2,2,8,1,0.28,55,Rigid,0.0
+919,4750,0,No Curve,17,No Median,2,2,8,1,0.07000000000000002,30,Rigid,1.0
+920,900,0,No Curve,11,No Median,2,2,8,1,0.4100000000000001,55,Rigid,0.0
+921,20100,0,No Curve,12,No Median,4,2,5,2,0.26,45,Rigid,1.0
+922,7109,0,No Curve,22,No Median,2,1,99,2,0.05,20,Rigid,1.0
+923,43200,0,No Curve,12,Median,6,2,4,2,0.06,35,Rigid,1.0
+924,1600,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+925,1550,0,No Curve,14,Median,2,2,8,1,0.06,55,Rigid,0.0
+926,20500,0,No Curve,15,No Median,4,2,5,2,0.04,45,Rigid,0.0
+927,33200,0,No Curve,12,Median,4,2,4,2,0.08,30,Rigid,1.0
+928,1300,0,No Curve,12,No Median,2,2,8,1,0.1,55,Rigid,1.0
+929,32000,2,No Curve,12,Median,4,2,1,2,0.02,55,Rigid,0.0
+930,7000,0,No Curve,13,No Median,2,2,3,2,0.07000000000000002,55,Rigid,0.0
+931,8500,0,No Curve,12,No Median,2,2,3,2,0.03,45,Rigid,0.0
+932,1000,0,No Curve,10,No Median,2,2,8,1,0.03,55,Rigid,0.0
+933,3250,0,No Curve,12,No Median,2,2,8,1,0.04,55,Rigid,0.0
+934,30000,0,No Curve,11,Median,4,2,4,2,0.12,30,Rigid,1.0
+935,6900,0,No Curve,15,No Median,2,2,3,2,0.04,40,Rigid,0.0
+936,12500,0,No Curve,11,No Median,2,2,3,2,0.02,30,Rigid,1.0
+937,150200,2,No Curve,12,Median,10,2,1,2,0.01,55,Rigid,0.0
+938,19900,0,No Curve,10,No Median,4,2,5,2,0.05,30,Rigid,0.0
+939,6400,0,No Curve,15,No Median,2,2,8,1,0.06,30,Rigid,0.0
+940,141000,2,No Curve,12,Median,6,2,1,2,0.01,55,Rigid,0.0
+941,30300,0,No Curve,11,Median,4,2,4,2,0.02,35,Rigid,1.0
+942,27400,0,No Curve,12,No Median,4,2,5,2,0.03,40,Rigid,1.0
+943,43500,2,No Curve,12,Median,6,2,1,2,0.04,65,Rigid,0.0
+944,3850,1,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+945,15200,0,No Curve,12,No Median,2,2,3,2,0.05,55,Rigid,0.0
+946,12000,0,No Curve,13,No Median,2,2,3,2,0.04,35,Other,0.0
+947,3650,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+948,4100,0,No Curve,11,No Median,2,2,8,1,0.04,55,Rigid,0.0
+949,15900,0,No Curve,12,No Median,2,2,3,2,0.03,40,Rigid,1.0
+950,3800,0,No Curve,12,No Median,2,2,8,1,0.05,45,Rigid,0.0
+951,2350,0,No Curve,12,No Median,2,2,8,1,0.03,55,Rigid,0.0
+952,20600,0,No Curve,12,Median,4,2,4,2,0.03,40,Rigid,0.0
+953,7200,0,No Curve,12,No Median,2,2,8,1,0.25,55,Rigid,1.0
+954,5200,0,No Curve,13,No Median,2,2,8,1,0.02,35,Rigid,0.0
+955,29700,0,No Curve,12,Median,4,2,4,2,0.04,40,Rigid,0.0
+956,16600,2,No Curve,12,Median,4,2,6,1,0.36,65,Rigid,0.0
+957,167800,2,No Curve,12,Median,6,2,1,2,0.01,55,Rigid,0.0
+958,21400,0,No Curve,12,No Median,2,2,3,2,0.06,30,Rigid,1.0
+959,2050,0,No Curve,12,No Median,2,2,8,1,0.09,55,Rigid,0.0
+960,1300,0,No Curve,11,No Median,2,2,8,1,0.08,55,Rigid,0.0
+961,32100,0,No Curve,11,Median,4,2,4,2,0.07000000000000002,35,Rigid,1.0
+962,12300,2,No Curve,12,Median,4,2,6,1,0.32,65,Other,0.0
+963,13300,0,No Curve,12,Median,4,2,4,2,0.37,55,Rigid,1.0
+964,50100,2,No Curve,12,Median,4,2,1,2,0.11,65,Rigid,1.0
+965,2550,0,No Curve,11,No Median,2,2,8,1,0.01,55,Rigid,0.0
+966,28900,0,No Curve,12,No Median,4,2,5,2,0.06,35,Rigid,0.0
+967,2150,0,No Curve,12,No Median,2,2,8,1,0.17,50,Rigid,0.0
+968,12100,2,No Curve,12,Median,4,2,6,1,0.12,65,Rigid,1.0
+969,3450,0,No Curve,11,No Median,2,2,8,1,0.27,55,Rigid,0.0
+970,7300,0,No Curve,12,No Median,2,2,8,1,0.01,30,Rigid,1.0
+971,4400,0,No Curve,12,Median,4,2,9,1,0.02,65,Other,0.0
+972,2200,0,No Curve,11,No Median,2,2,8,1,0.34,55,Rigid,0.0
+973,1500,0,No Curve,11,No Median,2,2,8,1,0.08,55,Rigid,0.0
+974,3350,1,No Curve,12,Median,4,2,9,1,0.05,65,Rigid,0.0
+975,950,0,No Curve,13,No Median,2,2,8,1,0.01,55,Rigid,0.0
+976,5009,0,No Curve,15,No Median,2,1,99,2,0.03,45,Rigid,1.0
+977,3350,0,No Curve,11,No Median,2,2,8,1,0.01,55,Rigid,0.0
+978,163800,2,No Curve,12,Median,10,2,1,2,0.04,55,Rigid,1.0
+979,11500,0,No Curve,12,No Median,2,2,3,2,0.14,35,Rigid,1.0
+980,7300,0,No Curve,13,No Median,2,2,8,1,0.32,55,Rigid,0.0
+981,4350,0,No Curve,11,No Median,2,2,8,1,0.25,55,Rigid,0.0
+982,2700,1,No Curve,12,No Median,2,2,8,1,0.05,55,Rigid,0.0
+983,2550,0,No Curve,12,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+984,2600,0,No Curve,12,No Median,2,2,8,1,0.49,55,Rigid,0.0
+985,2800,0,No Curve,14,No Median,2,2,8,1,0.01,55,Rigid,0.0
+986,2500,0,No Curve,16,No Median,2,2,8,1,0.07000000000000002,55,Rigid,0.0
+987,1800,0,No Curve,12,No Median,2,2,8,1,0.08,55,Rigid,0.0
+988,15500,0,No Curve,11,Median,2,2,3,2,0.09,50,Rigid,0.0
+989,26900,0,No Curve,11,No Median,4,2,5,2,0.07000000000000002,30,Rigid,1.0
+990,950,0,Curve,12,No Median,2,2,8,1,0.1,55,Rigid,1.0
+991,1100,0,No Curve,12,No Median,2,2,8,1,0.01,55,Rigid,0.0
+992,110100,2,No Curve,12,Median,6,2,1,2,0.01,55,Rigid,0.0
+993,10600,0,No Curve,12,Median,5,2,4,2,0.06,55,Rigid,0.0
+994,5200,0,No Curve,13,No Median,2,2,3,2,0.06,55,Other,0.0
+995,19100,0,No Curve,12,No Median,2,2,3,2,0.01,30,Rigid,0.0
+996,27500,0,No Curve,11,No Median,4,2,5,2,0.01,40,Flexible,1.0
+997,18000,2,No Curve,12,Median,4,2,6,1,0.01,65,Rigid,0.0
+998,9500,0,No Curve,10,No Median,4,2,5,2,0.06,30,Rigid,0.0
+999,5900,0,No Curve,13,No Median,2,2,8,1,0.27,55,Rigid,0.0
